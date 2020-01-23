@@ -1,0 +1,10 @@
+* Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
+
+
+1.Capomulin is the only drug in which the tumor volume decreased over time.
+
+
+2.Mice with the Placebo drug has the highest rate of spread in Metastatic Sites.
+
+
+3. Infubinol, Ketapril, and Placebo all had a tumor volume increase between 40-60% by the end of the 45 day period.
